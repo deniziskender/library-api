@@ -18,7 +18,7 @@ Implemented with with
 - Intellij Idea for IDE
 - SonarLint plugin
 - Swagger 2.7.0
-- CI/CD: Sonar Cloud (https://github.com/deniziskender/library-api/actions)
+- CI/CD: Github Actions, Sonar Cloud (https://github.com/deniziskender/library-api/actions)
 
 TODO LIST
 - Postresql/mongoDb will be integrated. 
