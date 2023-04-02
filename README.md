@@ -18,6 +18,7 @@ Implemented with with
 - Intellij Idea for IDE
 - SonarLint plugin
 - Swagger 2.7.0
+- CI/CD: Sonar Cloud
 
 TODO LIST
 - Postresql/mongoDb will be integrated. 
@@ -27,7 +28,6 @@ TODO LIST
 - Liquibase
 - Cucumber
 - JMeter
-- CI/CD
 - Cloud 
 - GraphQL
 - NewRelic
